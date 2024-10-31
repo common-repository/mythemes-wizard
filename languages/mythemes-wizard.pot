@@ -1,0 +1,159 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: myThemes Wizard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-21 05:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/mythemes-wizard.php:383
+#, php-format
+msgid "%1s &rsaquo; Setup Wizard"
+msgstr ""
+
+#: includes/mythemes-wizard-step.php:43
+#, php-format
+msgid "%1s Previous"
+msgstr ""
+
+#: includes/mythemes-wizard.php:419
+#, php-format
+msgid "&copy; copyright 2017 %1s free WordPress Plugin."
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:163
+msgid "Activate"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:184
+msgid "Activation"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:188
+msgid "Activation Failed"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:185
+msgid "Active"
+msgstr ""
+
+#: includes/mythemes-wizard.php:305
+msgid "Admin Dashboard"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:194
+#, php-format
+msgid "Error - plugin slug: %1s"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://mythem.es/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://mythem.es/item/mythemes-wizard/"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:156
+#: includes/mythemes-wizard-plugin.php:182
+msgid "Install"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:187
+msgid "Install Failed"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:183
+msgid "Installed"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:173
+msgid "Is Active"
+msgstr ""
+
+#: includes/mythemes-wizard-step.php:81
+msgid "Let's go!"
+msgstr ""
+
+#. Author of the plugin
+msgid "myThem.es"
+msgstr ""
+
+#: includes/mythemes-wizard.php:419
+msgid "myThem.es Wizard"
+msgstr ""
+
+#. Name of the plugin
+msgid "myThemes Wizard"
+msgstr ""
+
+#: includes/mythemes-wizard-step.php:57
+#, php-format
+msgid "Next %1s"
+msgstr ""
+
+#: includes/mythemes-wizard-step.php:77
+msgid "Not right Now"
+msgstr ""
+
+#: includes/mythemes-wizard.php:291
+msgid "Setup"
+msgstr ""
+
+#: includes/mythemes-wizard.php:281
+msgid "Setup Settings and Dependencies"
+msgstr ""
+
+#: includes/mythemes-wizard-step.php:91
+msgid "Start Setup"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:186
+msgid "Success"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:195
+msgid ""
+"This can be a connection error or this plugin can't be found on WordPress."
+"org plugins directory."
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:210
+msgid "undefined"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:215
+msgid "Undefined Author"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:205
+msgid "Undefined or empty plugin description"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:200
+msgid "Undefined Plugin Name"
+msgstr ""
+
+#: includes/mythemes-wizard-plugin.php:224
+#: includes/mythemes-wizard-plugin.php:247
+msgid "Waiting"
+msgstr ""
+
+#: includes/mythemes-wizard.php:283
+msgid "Waiting ... "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With myThemes Wizard you can build a custom setup for each WordPress Theme "
+"and Plugin. Inspired from WooCommerce Plugin Setup. This is a GPL 2 "
+"WordPress plugin."
+msgstr ""
